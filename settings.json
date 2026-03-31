@@ -1,0 +1,5 @@
+{
+    "AllAutocomplete.showCurrentDocument": true,
+    "editor.foldingMaximumRegions": 5000,
+    "editor.fontFamily": "Fira Code"
+}
